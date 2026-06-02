@@ -1,7 +1,7 @@
 {
   "filters": [
     {
-      "groupId": "550e8400-e29b-41d4-a716-446655440000",
+      "groupId": "666f647d-0042-1337-0000-000000000000",
       "id": "29075787-3ab6-539d-aee4-2245d93f115a",
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_4k.png",
       "isEnabled": true,
@@ -14,7 +14,7 @@
       "borderColor": "#2EFFFFFF"
     },
     {
-      "groupId": "550e8400-e29b-41d4-a716-446655440000",
+      "groupId": "666f647d-0042-1337-0000-000000000000",
       "id": "0b6cb68b-9b86-5b7b-9d90-37222bde6d14",
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_1080p.png",
       "isEnabled": true,
@@ -27,7 +27,7 @@
       "borderColor": "#2EFFFFFF"
     },
     {
-      "groupId": "550e8400-e29b-41d4-a716-446655440000",
+      "groupId": "666f647d-0042-1337-0000-000000000000",
       "id": "0d33e380-b632-566f-a57f-89ab9137313e",
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_720p.png",
       "isEnabled": true,
@@ -40,7 +40,7 @@
       "borderColor": "#2EFFFFFF"
     },
     {
-      "groupId": "3f2e1d0c-9b8a-4f7e-8d6c-5b4a39281716",
+      "groupId": "666f647d-0042-1337-0000-000000000004",
       "id": "a542b0b8-8bec-567a-ac42-50e87ec3e11b",
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_imax.png",
       "isEnabled": true,
@@ -53,7 +53,7 @@
       "borderColor": "#2EFFFFFF"
     },
     {
-      "groupId": "6ba7b810-9dad-11d1-80b4-00c04fd430c8",
+      "groupId": "666f647d-0042-1337-0000-000000000001",
       "id": "9be3e5a6-b81c-5659-b771-e2b111c2d496",
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_DV.png",
       "isEnabled": true,
@@ -66,7 +66,7 @@
       "borderColor": "#2EFFFFFF"
     },
     {
-      "groupId": "6ba7b810-9dad-11d1-80b4-00c04fd430c8",
+      "groupId": "666f647d-0042-1337-0000-000000000001",
       "id": "1f393f30-df1f-547e-97a7-b6b81404d8b5",
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_HDR10Plus.png",
       "isEnabled": true,
@@ -79,7 +79,7 @@
       "borderColor": "#2EFFFFFF"
     },
     {
-      "groupId": "6ba7b810-9dad-11d1-80b4-00c04fd430c8",
+      "groupId": "666f647d-0042-1337-0000-000000000001",
       "id": "f779c5b5-d414-5e94-9012-1636a724f9a9",
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_HDR10Plus.png",
       "isEnabled": false,
@@ -92,7 +92,7 @@
       "borderColor": "#2EFFFFFF"
     },
     {
-      "groupId": "6ba7b810-9dad-11d1-80b4-00c04fd430c8",
+      "groupId": "666f647d-0042-1337-0000-000000000001",
       "id": "c2d8eca4-de97-53e4-b151-418c8b88607d",
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_HDR10.png",
       "isEnabled": true,
@@ -105,7 +105,7 @@
       "borderColor": "#2EFFFFFF"
     },
     {
-      "groupId": "6ba7b810-9dad-11d1-80b4-00c04fd430c8",
+      "groupId": "666f647d-0042-1337-0000-000000000001",
       "id": "40c288b5-c99c-52fa-82a0-a17fa55f2f37",
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_HDR10.png",
       "isEnabled": false,
@@ -118,7 +118,7 @@
       "borderColor": "#2EFFFFFF"
     },
     {
-      "groupId": "6ba7b810-9dad-11d1-80b4-00c04fd430c8",
+      "groupId": "666f647d-0042-1337-0000-000000000001",
       "id": "81fcb635-5677-5e0b-85c9-77fd994d0091",
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_HDR.png",
       "isEnabled": true,
@@ -131,7 +131,7 @@
       "borderColor": "#2EFFFFFF"
     },
     {
-      "groupId": "6ba7b810-9dad-11d1-80b4-00c04fd430c8",
+      "groupId": "666f647d-0042-1337-0000-000000000001",
       "id": "9d1f158a-bb45-5758-b8da-b45c2759f803",
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_sdr.png",
       "isEnabled": false,
@@ -144,7 +144,7 @@
       "borderColor": "#2EFFFFFF"
     },
     {
-      "groupId": "8e4b6f8e-2c1e-4f6b-9e8d-3f7a9d1c2e3f",
+      "groupId": "666f647d-0042-1337-0000-000000000002",
       "id": "1e376aee-96c7-53cb-87e6-ea82d34afca0",
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_Atmos.png",
       "isEnabled": true,
@@ -158,7 +158,7 @@
     },
     {
       "borderColor": "#2EFFFFFF",
-      "groupId": "8e4b6f8e-2c1e-4f6b-9e8d-3f7a9d1c2e3f",
+      "groupId": "666f647d-0042-1337-0000-000000000002",
       "id": "6f4637af-d45c-5ef9-9a35-7adc61ab5a0e",
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_TrueHD.png",
       "isEnabled": true,
@@ -170,7 +170,7 @@
       "type": "filter"
     },
     {
-      "groupId": "8e4b6f8e-2c1e-4f6b-9e8d-3f7a9d1c2e3f",
+      "groupId": "666f647d-0042-1337-0000-000000000002",
       "id": "4309bea6-d424-51f4-8099-0deabacfc306",
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_dtsx.png",
       "isEnabled": true,
@@ -183,7 +183,7 @@
       "borderColor": "#2EFFFFFF"
     },
     {
-      "groupId": "8e4b6f8e-2c1e-4f6b-9e8d-3f7a9d1c2e3f",
+      "groupId": "666f647d-0042-1337-0000-000000000002",
       "id": "85d60c3f-6e5c-5e06-996f-8232bb686109",
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_dtsHDMA.png",
       "isEnabled": true,
@@ -196,7 +196,7 @@
       "borderColor": "#2EFFFFFF"
     },
     {
-      "groupId": "8e4b6f8e-2c1e-4f6b-9e8d-3f7a9d1c2e3f",
+      "groupId": "666f647d-0042-1337-0000-000000000002",
       "id": "a47dc0b9-72ed-5bf9-bcba-5e92b602001c",
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_dtsHD.png",
       "isEnabled": true,
@@ -209,7 +209,7 @@
       "borderColor": "#2EFFFFFF"
     },
     {
-      "groupId": "8e4b6f8e-2c1e-4f6b-9e8d-3f7a9d1c2e3f",
+      "groupId": "666f647d-0042-1337-0000-000000000002",
       "id": "138d9480-c83e-5735-aa9b-a0190464fbd5",
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_DDPLUS.png",
       "isEnabled": true,
@@ -222,7 +222,7 @@
       "borderColor": "#2EFFFFFF"
     },
     {
-      "groupId": "8e4b6f8e-2c1e-4f6b-9e8d-3f7a9d1c2e3f",
+      "groupId": "666f647d-0042-1337-0000-000000000002",
       "id": "da8db73e-5b47-560e-a543-abf02335db5c",
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_dts.png",
       "isEnabled": true,
@@ -235,7 +235,7 @@
       "borderColor": "#2EFFFFFF"
     },
     {
-      "groupId": "8e4b6f8e-2c1e-4f6b-9e8d-3f7a9d1c2e3f",
+      "groupId": "666f647d-0042-1337-0000-000000000002",
       "id": "3476e4a0-0f7d-57f1-bd45-13bfa2db5e42",
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_DD.png",
       "isEnabled": true,
@@ -248,7 +248,7 @@
       "borderColor": "#2EFFFFFF"
     },
     {
-      "groupId": "9f8e7d6c-3b2a-4f1e-9c8d-5a6b7e4f3d2c",
+      "groupId": "666f647d-0042-1337-0000-000000000003",
       "id": "343880da-882c-5dd8-8686-aee04111d735",
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_71.png",
       "isEnabled": true,
@@ -261,7 +261,7 @@
       "borderColor": "#2EFFFFFF"
     },
     {
-      "groupId": "9f8e7d6c-3b2a-4f1e-9c8d-5a6b7e4f3d2c",
+      "groupId": "666f647d-0042-1337-0000-000000000003",
       "id": "59853061-bc8f-5545-b392-644c22267ef8",
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_61.png",
       "isEnabled": true,
@@ -274,7 +274,7 @@
       "borderColor": "#2EFFFFFF"
     },
     {
-      "groupId": "9f8e7d6c-3b2a-4f1e-9c8d-5a6b7e4f3d2c",
+      "groupId": "666f647d-0042-1337-0000-000000000003",
       "id": "e3ab9d1e-9064-53ca-b405-354e40f2455a",
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_51.png",
       "isEnabled": true,
@@ -290,31 +290,31 @@
   "groups": [
     {
       "color": "#4ECDC4",
-      "id": "550e8400-e29b-41d4-a716-446655440000",
+      "id": "666f647d-0042-1337-0000-000000000000",
       "isExpanded": true,
       "name": "Resolution"
     },
     {
       "color": "#FF6B6B",
-      "id": "6ba7b810-9dad-11d1-80b4-00c04fd430c8",
+      "id": "666f647d-0042-1337-0000-000000000001",
       "isExpanded": true,
       "name": "Dynamic Range"
     },
     {
       "color": "#45B7D1",
-      "id": "8e4b6f8e-2c1e-4f6b-9e8d-3f7a9d1c2e3f",
+      "id": "666f647d-0042-1337-0000-000000000002",
       "isExpanded": true,
       "name": "Audio"
     },
     {
       "color": "#FFD700",
-      "id": "9f8e7d6c-3b2a-4f1e-9c8d-5a6b7e4f3d2c",
+      "id": "666f647d-0042-1337-0000-000000000003",
       "isExpanded": true,
       "name": "Audio Channels"
     },
     {
       "color": "#C792EA",
-      "id": "3f2e1d0c-9b8a-4f7e-8d6c-5b4a39281716",
+      "id": "666f647d-0042-1337-0000-000000000004",
       "isExpanded": true,
       "name": "Special Tags"
     }
