@@ -302,12 +302,6 @@
   ],
   "groups": [
     {
-      "color": "#96CEB4",
-      "id": "7c211433-9f2b-4e2f-9b8c-2f9a8e8c8b1e",
-      "isExpanded": true,
-      "name": "Media Source"
-    },
-    {
       "color": "#4ECDC4",
       "id": "550e8400-e29b-41d4-a716-446655440000",
       "isExpanded": true,
