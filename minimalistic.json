@@ -40,19 +40,6 @@
       "borderColor": "#2EFFFFFF"
     },
     {
-      "groupId": "666f647d-0042-1337-0000-000000000004",
-      "id": "a542b0b8-8bec-567a-ac42-50e87ec3e11b",
-      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_imax.png",
-      "isEnabled": true,
-      "name": "IMAX",
-      "pattern": "(?i)\\bimax\\b",
-      "tagColor": "#22000000",
-      "tagStyle": "filled and bordered",
-      "textColor": "#FFFFFF",
-      "type": "filter",
-      "borderColor": "#2EFFFFFF"
-    },
-    {
       "groupId": "666f647d-0042-1337-0000-000000000001",
       "id": "9be3e5a6-b81c-5659-b771-e2b111c2d496",
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_DV.png",
@@ -111,6 +98,19 @@
       "isEnabled": false,
       "name": "SDR",
       "pattern": "(?i)\\bSDR\\b",
+      "tagColor": "#22000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter",
+      "borderColor": "#2EFFFFFF"
+    },
+    {
+      "groupId": "666f647d-0042-1337-0000-000000000004",
+      "id": "a542b0b8-8bec-567a-ac42-50e87ec3e11b",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_imax.png",
+      "isEnabled": true,
+      "name": "IMAX",
+      "pattern": "(?i)\\bimax\\b",
       "tagColor": "#22000000",
       "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
