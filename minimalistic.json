@@ -162,7 +162,7 @@
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_dtsHDMA.png",
       "isEnabled": true,
       "name": "DTS-HD MA",
-      "pattern": "(?i)(?=.*\\b(dts[-_. ]?(ma|hd([-_. ]?ma)?|xll))(\\b|\\d))(?!.*\\b(True[ .-]?HD|ATMOS)(\\b|\\d))(?!.*\\bDD[P+]|(e[-_. ]?ac-?3)\\b)(?!.*\\bDD[^a-z+]|(?<!e-)\\b(ac-?3)\\b)(?!.*\\b(dts[-_.: ]?x7?)\\b(?![-_. ]?(26[456])))(?!.*\\bFLAC(\\b|\\d))(?!.*\\bAAC(\\b|\\d))(?!.*\\b(l?)PCM(\\b|\\d))(?!.*dts[-. ]?(es|(hd[. ]?)?(hr|hi)))",
+      "pattern": "(?i)\\bdts[ .\\-_]?hd[ .\\-_]?ma\\b",
       "tagColor": "#22000000",
       "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
