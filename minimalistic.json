@@ -214,7 +214,7 @@
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_DD.png",
       "isEnabled": true,
       "name": "DOLBY DIGITAL",
-      "pattern": "(?i)\b(d(olby)?[ .\-_]?d(igital)?(?!p)(?:[ .\-_]?(5[ .\-_]?1|7[ .\-_]?1|2[ .\-_]?0?))?)|(?<!e[ .\-_])(?<!e)ac[ .\-_]?3\b",
+      "pattern": "(?i)\b(d(olby)?[ .-_]?d(igital)?(?!p)(?:[ .-_]?(5[ .-_]?1|7[ -_]?1|2[ .-_]?0?))?)|(?<!e[ .-_])(?<!e)ac[ .-_]?3\b",
       "tagColor": "#22000000",
       "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
