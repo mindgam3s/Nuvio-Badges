@@ -27,12 +27,12 @@
     {
       "color": "#FFD700",
       "id": "666f647d-0042-1337-0000-000000010000",
-      "isExpanded": true,
+      "isExpanded": false,
       "name": "Audio Channels"
     },
     {
       "color": "#C792EA",
-      "id": "666f647d-0042-1337-0000-000000000004",
+      "id": "666f647d-0042-1337-0000-000000000100",
       "isExpanded": true,
       "name": "Special Tags"
     }
@@ -286,6 +286,98 @@
       "type": "filter",
       "borderColor": "#2EFFFFFF"
     },
+    
+      {
+        "id": "gs-peacock",
+        "name": "PEACOCK",
+        "groupId": "666f647d-0042-1337-0000-000000000100",
+        "groupFolder": "streaming",
+        "path": "badge-images/streaming/peacock.png",
+        "rawURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/streaming-badges/peacock.png?rev=3a246330d6cd",
+        "width": 500,
+        "height": 281
+      },
+      {
+        "id": "s-nflx",
+        "name": "NETFLIX",
+        "groupId": "666f647d-0042-1337-0000-000000000100",
+        "groupFolder": "streaming",
+        "path": "badge-images/streaming/netflix.png",
+        "rawURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/streaming-badges/netflix.png?rev=f9ff8350db66",
+        "width": 1754,
+        "height": 506
+      },
+      {
+        "id": "s-amzn",
+        "name": "PRIME VIDEO",
+        "groupId": "666f647d-0042-1337-0000-000000000100",
+        "groupFolder": "streaming",
+        "path": "badge-images/streaming/prime-video.png",
+        "rawURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/streaming-badges/prime-video.png?rev=734e98d3cae7",
+        "width": 1364,
+        "height": 411
+      },
+      {
+        "id": "s-atvp",
+        "name": "APPLE TV+",
+        "groupId": "666f647d-0042-1337-0000-000000000100",
+        "groupFolder": "streaming",
+        "path": "badge-images/streaming/apple-tv-plus.png",
+        "rawURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/streaming-badges/apple-tv-plus.png?rev=385cbbb6b82b",
+        "width": 162,
+        "height": 80
+      },
+      {
+        "id": "s-dsnp",
+        "name": "DISNEY+",
+        "groupId": "666f647d-0042-1337-0000-000000000100",
+        "groupFolder": "streaming",
+        "path": "badge-images/streaming/disney-plus.png",
+        "rawURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/streaming-badges/disney-plus.png?rev=31ef53ec24e7",
+        "width": 800,
+        "height": 434
+      },
+      {
+        "id": "s-hmax",
+        "name": "HBO MAX",
+        "groupId": "666f647d-0042-1337-0000-000000000100",
+        "groupFolder": "streaming",
+        "path": "badge-images/streaming/hbo-max.png",
+        "rawURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/streaming-badges/hbo-max.png?rev=9bfc00cc3550",
+        "width": 2536,
+        "height": 712
+      },
+      {
+        "id": "s-hulu",
+        "name": "HULU",
+        "groupId": "666f647d-0042-1337-0000-000000000100",
+        "groupFolder": "streaming",
+        "path": "badge-images/streaming/hulu.png",
+        "rawURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/streaming-badges/hulu.png?rev=312e1f6e4a66",
+        "width": 2400,
+        "height": 806
+      },
+      {
+        "id": "s-pamp",
+        "name": "PARAMOUNT+",
+        "groupId": "666f647d-0042-1337-0000-000000000100",
+        "groupFolder": "streaming",
+        "path": "badge-images/streaming/paramount-plus.png",
+        "rawURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/streaming-badges/paramount-plus.png?rev=d69428aff13c",
+        "width": 3468,
+        "height": 2158
+      },
+      {
+        "id": "s-croll",
+        "name": "CRUNCHYROLL",
+        "groupId": "666f647d-0042-1337-0000-000000000100",
+        "groupFolder": "streaming",
+        "path": "badge-images/streaming/crunchyroll.png",
+        "rawURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/streaming-badges/crunchyroll.png?rev=6fad3db24703",
+        "width": 1538,
+        "height": 860
+      },
+      
     {
       "groupId": "666f647d-0042-1337-0000-000000010000",
       "id": "343880da-882c-5dd8-8686-aee04111d735",
