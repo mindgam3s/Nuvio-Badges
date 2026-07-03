@@ -298,8 +298,128 @@
       "type": "filter",
       "borderColor": "#2EFFFFFF"
     },
-
-
+    
+    
+      
+    {
+      "id": "gs-peacock",
+      "name": "PEACOCK",
+      "groupId": "666f647d-0042-1337-0000-000000000100",
+      "isEnabled": true,
+      "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:peacock|pcok)(?![a-z0-9]))))",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/streaming-tags/peacock.png?rev=3a246330d6cd",
+      "tagColor": "#00000000",
+      "borderColor": "#FCCC12",
+      "textColor": "#FFFFFF",
+      "tagStyle": "bordered",
+      "type": "filter"
+    },
+    {
+      "id": "s-nflx",
+      "name": "NETFLIX",
+      "groupId": "666f647d-0042-1337-0000-000000000100",
+      "isEnabled": true,
+      "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:netflix|nflx|nf)(?![a-z0-9]))))",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/streaming-tags/netflix.png?rev=f9ff8350db66",
+      "tagColor": "#00000000",
+      "borderColor": "#E50914",
+      "textColor": "#FFFFFF",
+      "tagStyle": "bordered",
+      "type": "filter"
+    },
+    {
+      "id": "s-amzn",
+      "name": "PRIME VIDEO",
+      "groupId": "666f647d-0042-1337-0000-000000000100",
+      "isEnabled": true,
+      "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:amazon|amzn|prime[-_. ]?video)(?![a-z0-9]))))",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/streaming-tags/prime-video.png?rev=734e98d3cae7",
+      "tagColor": "#00000000",
+      "borderColor": "#00A8E1",
+      "textColor": "#FFFFFF",
+      "tagStyle": "bordered",
+      "type": "filter"
+    },
+    {
+      "id": "s-atvp",
+      "name": "APPLE TV+",
+      "groupId": "666f647d-0042-1337-0000-000000000100",
+      "isEnabled": true,
+      "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:apple[-_. ]?tv(?:\\+|plus)?|atvp)(?![a-z0-9]))))",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/streaming-tags/apple-tv-plus.png?rev=385cbbb6b82b",
+      "tagColor": "#00000000",
+      "borderColor": "#A2AAAD",
+      "textColor": "#FFFFFF",
+      "tagStyle": "bordered",
+      "type": "filter"
+    },
+    {
+      "id": "s-dsnp",
+      "name": "DISNEY+",
+      "groupId": "666f647d-0042-1337-0000-000000000100",
+      "isEnabled": true,
+      "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:disney(?:\\+|plus)?|dsnp)(?![a-z0-9]))))",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/streaming-tags/disney-plus.png?rev=31ef53ec24e7",
+      "tagColor": "#00000000",
+      "borderColor": "#0063E5",
+      "textColor": "#FFFFFF",
+      "tagStyle": "bordered",
+      "type": "filter"
+    },
+    {
+      "id": "s-hmax",
+      "name": "HBO MAX",
+      "groupId": "666f647d-0042-1337-0000-000000000100",
+      "isEnabled": true,
+      "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:hbo[-_. ]?max|hbomax|hmax)(?![a-z0-9]))))",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/streaming-tags/hbo-max.png?rev=9bfc00cc3550",
+      "tagColor": "#00000000",
+      "borderColor": "#A45CFF",
+      "textColor": "#FFFFFF",
+      "tagStyle": "bordered",
+      "type": "filter"
+    },
+    {
+      "id": "s-hulu",
+      "name": "HULU",
+      "groupId": "666f647d-0042-1337-0000-000000000100",
+      "isEnabled": true,
+      "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:hulu)(?![a-z0-9]))))",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/streaming-tags/hulu.png?rev=312e1f6e4a66",
+      "tagColor": "#00000000",
+      "borderColor": "#1CE783",
+      "textColor": "#FFFFFF",
+      "tagStyle": "bordered",
+      "type": "filter"
+    },
+    {
+      "id": "s-pamp",
+      "name": "PARAMOUNT+",
+      "groupId": "666f647d-0042-1337-0000-000000000100",
+      "isEnabled": true,
+      "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:paramount(?:\\+|plus)?|pmtp|pamp)(?![a-z0-9]))))",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/streaming-tags/paramount-plus.png?rev=d69428aff13c",
+      "tagColor": "#00000000",
+      "borderColor": "#0064FF",
+      "textColor": "#FFFFFF",
+      "tagStyle": "bordered",
+      "type": "filter"
+    },
+    {
+      "id": "s-croll",
+      "name": "CRUNCHYROLL",
+      "groupId": "666f647d-0042-1337-0000-000000000100",
+      "isEnabled": true,
+      "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:crunchyroll|croll)(?![a-z0-9]))))",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/streaming-tags/crunchyroll.png?rev=6fad3db24703",
+      "tagColor": "#00000000",
+      "borderColor": "#F47521",
+      "textColor": "#FFFFFF",
+      "tagStyle": "bordered",
+      "type": "filter"
+    },
+    
+      
       
     {
       "groupId": "666f647d-0042-1337-0000-000000010000",
