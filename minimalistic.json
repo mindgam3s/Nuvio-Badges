@@ -114,7 +114,7 @@
       "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:dv|dovi|dolby[-_. ]?vision)(?![a-z0-9]))))(?=.*?(?:(?:(?<![a-z0-9])(?:hdr[-_. ]?10(?:[-_. ]?(?:\\+|p)|[-_. ]?plus))(?![a-z0-9]))))(?:(?=.*\\.(?:mkv|mp4|avi|m2ts|webm|mov|m4v)\\s+\\S)|(?=(?:.*(?:2160|1440|1080|720|576|480)[pi]?){2})|(?=.*[\\r\\n])|(?=^[a-f0-9]{40,64}\\s+\\S))",
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/visual-tags/dolby-vision-hdr10-plus.png?rev=f07ea097e932",
       "tagColor": "#000000",
-      "borderColor": "#FFD500",
+      "borderColor": "#2EFFFFFF",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
       "type": "filter"
@@ -127,7 +127,7 @@
       "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:dv|dovi|dolby[-_. ]?vision)(?![a-z0-9]))))(?=.*?(?:(?:(?<![a-z0-9])(?:hdr[-_. ]?10(?![-_. ]?(?:\\+|p(?:lus)?|bit|hi)))(?![a-z0-9]))))(?:(?=.*\\.(?:mkv|mp4|avi|m2ts|webm|mov|m4v)\\s+\\S)|(?=(?:.*(?:2160|1440|1080|720|576|480)[pi]?){2})|(?=.*[\\r\\n])|(?=^[a-f0-9]{40,64}\\s+\\S))(?!.*(?:(?:(?:(?<![a-z0-9])(?:hdr[-_. ]?10(?:[-_. ]?(?:\\+|p)|[-_. ]?plus))(?![a-z0-9])))))",
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/visual-tags/dolby-vision-hdr10.png?rev=fa26b5c86665",
       "tagColor": "#000000",
-      "borderColor": "#FFD500",
+      "borderColor": "#2EFFFFFF",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
       "type": "filter"
@@ -140,7 +140,7 @@
       "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:dv|dovi|dolby[-_. ]?vision)(?![a-z0-9]))))(?=.*?(?:(?:(?<![a-z0-9])(?:hdr(?![-_. ]?(?:10(?![-_. ]?bit)|\\+|p(?:lus)?)))(?![a-z0-9]))))(?:(?=.*\\.(?:mkv|mp4|avi|m2ts|webm|mov|m4v)\\s+\\S)|(?=(?:.*(?:2160|1440|1080|720|576|480)[pi]?){2})|(?=.*[\\r\\n])|(?=^[a-f0-9]{40,64}\\s+\\S))(?!.*(?:(?:(?:(?<![a-z0-9])(?:hdr[-_. ]?10(?:[-_. ]?(?:\\+|p)|[-_. ]?plus))(?![a-z0-9]))|(?:(?<![a-z0-9])(?:hdr[-_. ]?10(?![-_. ]?(?:\\+|p(?:lus)?|bit|hi)))(?![a-z0-9])))))",
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/visual-tags/dolby-vision-hdr.png?rev=9dffa553dcde",
       "tagColor": "#000000",
-      "borderColor": "#FFD500",
+      "borderColor": "#2EFFFFFF",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
       "type": "filter"
@@ -153,7 +153,7 @@
       "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:dv|dovi|dolby[-_. ]?vision)(?![a-z0-9]))))(?:(?=.*\\.(?:mkv|mp4|avi|m2ts|webm|mov|m4v)\\s+\\S)|(?=(?:.*(?:2160|1440|1080|720|576|480)[pi]?){2})|(?=.*[\\r\\n])|(?=^[a-f0-9]{40,64}\\s+\\S))(?!.*(?:(?:(?:(?<![a-z0-9])(?:hdr[-_. ]?10(?:[-_. ]?(?:\\+|p)|[-_. ]?plus))(?![a-z0-9]))|(?:(?<![a-z0-9])(?:hdr[-_. ]?10(?![-_. ]?(?:\\+|p(?:lus)?|bit|hi)))(?![a-z0-9]))|(?:(?<![a-z0-9])(?:hdr(?![-_. ]?(?:10(?![-_. ]?bit)|\\+|p(?:lus)?)))(?![a-z0-9])))))",
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/visual-tags/dolby-vision.png?rev=3b906b4d0f7c",
       "tagColor": "#000000",
-      "borderColor": "#FFD500",
+      "borderColor": "#2EFFFFFF",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
       "type": "filter"
@@ -166,7 +166,7 @@
       "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:hdr[-_. ]?10(?:[-_. ]?(?:\\+|p)|[-_. ]?plus))(?![a-z0-9]))))(?:(?=.*\\.(?:mkv|mp4|avi|m2ts|webm|mov|m4v)\\s+\\S)|(?=(?:.*(?:2160|1440|1080|720|576|480)[pi]?){2})|(?=.*[\\r\\n])|(?=^[a-f0-9]{40,64}\\s+\\S))(?!.*(?:(?:(?:(?<![a-z0-9])(?:dv|dovi|dolby[-_. ]?vision)(?![a-z0-9])))))",
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/visual-tags/hdr10-plus.png?rev=8717fdea5747",
       "tagColor": "#000000",
-      "borderColor": "#FFD500",
+      "borderColor": "#2EFFFFFF",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
       "type": "filter"
@@ -179,7 +179,7 @@
       "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:hdr[-_. ]?10(?![-_. ]?(?:\\+|p(?:lus)?|bit|hi)))(?![a-z0-9]))))(?:(?=.*\\.(?:mkv|mp4|avi|m2ts|webm|mov|m4v)\\s+\\S)|(?=(?:.*(?:2160|1440|1080|720|576|480)[pi]?){2})|(?=.*[\\r\\n])|(?=^[a-f0-9]{40,64}\\s+\\S))(?!.*(?:(?:(?:(?<![a-z0-9])(?:dv|dovi|dolby[-_. ]?vision)(?![a-z0-9]))|(?:(?<![a-z0-9])(?:hdr[-_. ]?10(?:[-_. ]?(?:\\+|p)|[-_. ]?plus))(?![a-z0-9])))))",
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/visual-tags/hdr10.png?rev=c6bee5e558bc",
       "tagColor": "#000000",
-      "borderColor": "#176BE8",
+      "borderColor": "#2EFFFFFF",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
       "type": "filter"
@@ -192,7 +192,7 @@
       "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:hdr(?![-_. ]?(?:10(?![-_. ]?bit)|\\+|p(?:lus)?)))(?![a-z0-9]))))(?:(?=.*\\.(?:mkv|mp4|avi|m2ts|webm|mov|m4v)\\s+\\S)|(?=(?:.*(?:2160|1440|1080|720|576|480)[pi]?){2})|(?=.*[\\r\\n])|(?=^[a-f0-9]{40,64}\\s+\\S))(?!.*(?:(?:(?:(?<![a-z0-9])(?:dv|dovi|dolby[-_. ]?vision)(?![a-z0-9]))|(?:(?<![a-z0-9])(?:hdr[-_. ]?10(?:[-_. ]?(?:\\+|p)|[-_. ]?plus))(?![a-z0-9]))|(?:(?<![a-z0-9])(?:hdr[-_. ]?10(?![-_. ]?(?:\\+|p(?:lus)?|bit|hi)))(?![a-z0-9])))))",
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/visual-tags/hdr.png?rev=8d9a0782c2ee",
       "tagColor": "#000000",
-      "borderColor": "#2EB853",
+      "borderColor": "#2EFFFFFF",
       "textColor": "#FFFFFF",
       "tagStyle": "bordered",
       "type": "filter"
