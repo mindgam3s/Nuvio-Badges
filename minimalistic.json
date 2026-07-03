@@ -1,5 +1,70 @@
 {
+    "groups": [
+    {
+      "color": "#4ECDC4",
+      "id": "666f647d-0042-1337-0000-000100000000",
+      "isExpanded": true,
+      "name": "Special"
+    },
+    {
+      "color": "#4ECDC4",
+      "id": "666f647d-0042-1337-0000-000010000000",
+      "isExpanded": true,
+      "name": "Resolution"
+    },
+    {
+      "color": "#FF6B6B",
+      "id": "666f647d-0042-1337-0000-000001000000",
+      "isExpanded": true,
+      "name": "Dynamic Range"
+    },
+    {
+      "color": "#45B7D1",
+      "id": "666f647d-0042-1337-0000-000000100000",
+      "isExpanded": true,
+      "name": "Audio"
+    },
+    {
+      "color": "#FFD700",
+      "id": "666f647d-0042-1337-0000-000000010000",
+      "isExpanded": true,
+      "name": "Audio Channels"
+    },
+    {
+      "color": "#C792EA",
+      "id": "666f647d-0042-1337-0000-000000000004",
+      "isExpanded": true,
+      "name": "Special Tags"
+    }
+  ],
+  
   "filters": [
+    {
+      "borderColor": "#BBDEFB",
+      "groupId": "gst",
+      "id": "black-and-white",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/special-tags/black-and-white.png",
+      "isEnabled": true,
+      "name": "BLACK & WHITE",
+      "pattern": "(?i)(?<![\\s\\S])(?=[\\s\\S]*?(?:(?:(?<![A-Za-z0-9])(?:authentic[-_. ]?(?:bw|black[-_. ]?(?:and|&)[-_. ]?white)|bw|b\\s*[&＆]\\s*w|black[-_. ]?(?:and|&)[-_. ]?white)(?![A-Za-z0-9]))))(?![\\s\\S]*(?:(?:(?<![A-Za-z0-9])(?:true[-_. ]?hue(?:[-_. ]?(?:full[-_. ]?)?color)?|colorized|full[-_. ]?color)(?![A-Za-z0-9]))))",
+      "tagColor": "#000000",
+      "tagStyle": "bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#BBDEFB",
+      "groupId": "gst",
+      "id": "true-hue-edition",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/special-tags/true-hue.png?rev=a262c2c",
+      "isEnabled": true,
+      "name": "TRUE-HUE",
+      "pattern": "(?i)(?<![\\s\\S])(?=[\\s\\S]*?(?:(?:(?<![A-Za-z0-9])(?:true[-_. ]?hue(?:[-_. ]?(?:full[-_. ]?)?color)?|colorized|full[-_. ]?color)(?![A-Za-z0-9]))))(?![\\s\\S]*(?:(?:(?<![A-Za-z0-9])(?:authentic[-_. ]?(?:bw|black[-_. ]?(?:and|&)[-_. ]?white)|bw|b\\s*[&＆]\\s*w|black[-_. ]?(?:and|&)[-_. ]?white)(?![A-Za-z0-9]))))",
+      "tagColor": "#000000",
+      "tagStyle": "bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter"
+    },
     {
       "groupId": "666f647d-0042-1337-0000-000000000000",
       "id": "29075787-3ab6-539d-aee4-2245d93f115a",
@@ -259,38 +324,6 @@
       "textColor": "#FFFFFF",
       "type": "filter",
       "borderColor": "#2EFFFFFF"
-    }
-  ],
-  "groups": [
-    {
-      "color": "#4ECDC4",
-      "id": "666f647d-0042-1337-0000-000000000000",
-      "isExpanded": true,
-      "name": "Resolution"
-    },
-    {
-      "color": "#FF6B6B",
-      "id": "666f647d-0042-1337-0000-000000000001",
-      "isExpanded": true,
-      "name": "Dynamic Range"
-    },
-    {
-      "color": "#45B7D1",
-      "id": "666f647d-0042-1337-0000-000000000002",
-      "isExpanded": true,
-      "name": "Audio"
-    },
-    {
-      "color": "#FFD700",
-      "id": "666f647d-0042-1337-0000-000000000003",
-      "isExpanded": true,
-      "name": "Audio Channels"
-    },
-    {
-      "color": "#C792EA",
-      "id": "666f647d-0042-1337-0000-000000000004",
-      "isExpanded": true,
-      "name": "Special Tags"
     }
   ]
 }
