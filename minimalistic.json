@@ -68,7 +68,7 @@
     {
       "groupId": "666f647d-0042-1337-0000-000010000000",
       "id": "29075787-3ab6-539d-aee4-2245d93f115a",
-      "imageURL": "",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_4k.png",
       "isEnabled": true,
       "name": "UHD",
       "pattern": "(?i)^(?!.*\\b(?:1080p?|720p?|full[ ._-]?hd|fhd)\\b)(?=.*(?:\\b2160p?\\b|(?<![a-z0-9])4k(?![a-z0-9])|\\buhd\\b|\\bultra[ ._-]?hd\\b))",
@@ -81,7 +81,7 @@
     {
       "groupId": "666f647d-0042-1337-0000-000010000000",
       "id": "0b6cb68b-9b86-5b7b-9d90-37222bde6d14",
-      "imageURL": "",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_1080p.png",
       "isEnabled": true,
       "name": "Full-HD",
       "pattern": "(?i)(?:\\b1080p?\\b|\\bfhd\\b|\\bfull[ ._-]?hd\\b)",
@@ -94,7 +94,7 @@
     {
       "groupId": "666f647d-0042-1337-0000-000010000000",
       "id": "0d33e380-b632-566f-a57f-89ab9137313e",
-      "imageURL": "",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_720p.png",
       "isEnabled": true,
       "name": "HD",
       "pattern": "(?i)\\b720p?\\b",
