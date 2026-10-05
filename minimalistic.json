@@ -246,7 +246,7 @@
       "borderColor": "#2EFFFFFF",
       "groupId": "666f647d-0042-1337-0000-000000100000",
       "id": "6f4637af-d45c-5ef9-9a35-7adc61ab5a0e",
-      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_TrueHD.png",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/audio-tags/dolby-truehd.png",
       "isEnabled": true,
       "name": "TRUEHD",
       "pattern": "(?i)\\btrue[ .-_]?hd\\b",
