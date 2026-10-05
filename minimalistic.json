@@ -68,9 +68,9 @@
     {
       "groupId": "666f647d-0042-1337-0000-000010000000",
       "id": "29075787-3ab6-539d-aee4-2245d93f115a",
-      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_4k.png",
+      "imageURL": "",
       "isEnabled": true,
-      "name": "2160p",
+      "name": "UHD",
       "pattern": "(?i)^(?!.*\\b(?:1080p?|720p?|full[ ._-]?hd|fhd)\\b)(?=.*(?:\\b2160p?\\b|(?<![a-z0-9])4k(?![a-z0-9])|\\buhd\\b|\\bultra[ ._-]?hd\\b))",
       "tagColor": "#22000000",
       "tagStyle": "filled and bordered",
@@ -81,9 +81,9 @@
     {
       "groupId": "666f647d-0042-1337-0000-000010000000",
       "id": "0b6cb68b-9b86-5b7b-9d90-37222bde6d14",
-      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_1080p.png",
+      "imageURL": "",
       "isEnabled": true,
-      "name": "1080p",
+      "name": "Full-HD",
       "pattern": "(?i)(?:\\b1080p?\\b|\\bfhd\\b|\\bfull[ ._-]?hd\\b)",
       "tagColor": "#22000000",
       "tagStyle": "filled and bordered",
