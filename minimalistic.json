@@ -271,7 +271,7 @@
     {
       "groupId": "666f647d-0042-1337-0000-000000100000",
       "id": "85d60c3f-6e5c-5e06-996f-8232bb686109",
-      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/audio-tags/dts-hd-ma.png",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_dtsHDMA.png",
       "isEnabled": true,
       "name": "DTS-HD MA",
       "pattern": "(?i)\\bdts[ .-_]?hd[ .-_]?ma\\b",
