@@ -94,9 +94,9 @@
     {
       "groupId": "666f647d-0042-1337-0000-000010000000",
       "id": "0d33e380-b632-566f-a57f-89ab9137313e",
-      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_720p.png",
+      "imageURL": "",
       "isEnabled": true,
-      "name": "720p",
+      "name": "HD",
       "pattern": "(?i)\\b720p?\\b",
       "tagColor": "#22000000",
       "tagStyle": "filled and bordered",
