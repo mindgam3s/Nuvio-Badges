@@ -258,7 +258,7 @@
     {
       "groupId": "666f647d-0042-1337-0000-000000100000",
       "id": "4309bea6-d424-51f4-8099-0deabacfc306",
-      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/audio-tags/dts-x.png",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/audio-tags/dts-x.white.png",
       "isEnabled": true,
       "name": "DTS-X",
       "pattern": "(?i)\\bdts[ .-:_]?x\\b",
@@ -284,7 +284,7 @@
     {
       "groupId": "666f647d-0042-1337-0000-000000100000",
       "id": "a47dc0b9-72ed-5bf9-bcba-5e92b602001c",
-      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/audio-tags/dts-hd.png",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/audio-tags/dts-hd.white.png",
       "isEnabled": true,
       "name": "DTS-HD",
       "pattern": "(?i)\\bdts[ .-_]?hd(?![ .-_]?ma)\\b",
@@ -310,7 +310,7 @@
     {
       "groupId": "666f647d-0042-1337-0000-000000100000",
       "id": "da8db73e-5b47-560e-a543-abf02335db5c",
-      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/audio-tags/dts.png",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/audio-tags/dts.white.png",
       "isEnabled": true,
       "name": "DTS",
       "pattern": "(?i)\\bdts(?![ .-:_]?(x(?=[\\s\\)\\]_.-,]|$)|hd[ .-_]?(ma)?|es))\\b",
