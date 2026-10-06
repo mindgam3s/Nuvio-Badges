@@ -1,0 +1,503 @@
+{
+    "groups": [
+    {
+      "color": "#4ECDC4",
+      "id": "666f647d-0042-1337-0000-000100000000",
+      "isExpanded": true,
+      "name": "Special"
+    },
+    {
+      "color": "#4ECDC4",
+      "id": "666f647d-0042-1337-0000-000010000000",
+      "isExpanded": true,
+      "name": "Resolution"
+    },
+    {
+      "color": "#FF6B6B",
+      "id": "666f647d-0042-1337-0000-000001000000",
+      "isExpanded": true,
+      "name": "Visual"
+    },
+    {
+      "color": "#45B7D1",
+      "id": "666f647d-0042-1337-0000-000000100000",
+      "isExpanded": true,
+      "name": "Audio"
+    },
+    {
+      "color": "#C792EA",
+      "id": "666f647d-0042-1337-0000-000000000100",
+      "isExpanded": true,
+      "name": "Streaming Platform Tags"
+    },
+    {
+      "color": "#FFD700",
+      "id": "666f647d-0042-1337-0000-000000010000",
+      "isExpanded": false,
+      "name": "Audio Channels"
+    }
+  ],
+  
+  "filters": [
+    {
+      "borderColor": "#BBDEFB",
+      "groupId": "666f647d-0042-1337-0000-000100000000",
+      "id": "black-and-white",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/special-tags/black-and-white.png",
+      "isEnabled": true,
+      "name": "BLACK & WHITE",
+      "pattern": "(?i)(?<![\\s\\S])(?=[\\s\\S]*?(?:(?:(?<![A-Za-z0-9])(?:authentic[-_. ]?(?:bw|black[-_. ]?(?:and|&)[-_. ]?white)|bw|b\\s*[&＆]\\s*w|black[-_. ]?(?:and|&)[-_. ]?white)(?![A-Za-z0-9]))))(?![\\s\\S]*(?:(?:(?<![A-Za-z0-9])(?:true[-_. ]?hue(?:[-_. ]?(?:full[-_. ]?)?color)?|colorized|full[-_. ]?color)(?![A-Za-z0-9]))))",
+      "tagColor": "#000000",
+      "tagStyle": "bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter"
+    },
+    {
+      "borderColor": "#BBDEFB",
+      "groupId": "666f647d-0042-1337-0000-000100000000",
+      "id": "true-hue-edition",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/special-tags/true-hue.png",
+      "isEnabled": true,
+      "name": "TRUE-HUE",
+      "pattern": "(?i)(?<![\\s\\S])(?=[\\s\\S]*?(?:(?:(?<![A-Za-z0-9])(?:true[-_. ]?hue(?:[-_. ]?(?:full[-_. ]?)?color)?|colorized|full[-_. ]?color)(?![A-Za-z0-9]))))(?![\\s\\S]*(?:(?:(?<![A-Za-z0-9])(?:authentic[-_. ]?(?:bw|black[-_. ]?(?:and|&)[-_. ]?white)|bw|b\\s*[&＆]\\s*w|black[-_. ]?(?:and|&)[-_. ]?white)(?![A-Za-z0-9]))))",
+      "tagColor": "#00000000",
+      "borderColor": "#FCCC12",
+      "textColor": "#FFFFFF",
+      "type": "filter"
+    },
+
+
+
+    {
+      "groupId": "666f647d-0042-1337-0000-000010000000",
+      "id": "29075787-3ab6-539d-aee4-2245d93f115a",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_4k.png",
+      "isEnabled": true,
+      "name": "UHD",
+      "pattern": "(?i)^(?!.*\\b(?:1080p?|720p?|full[ ._-]?hd|fhd)\\b)(?=.*(?:\\b2160p?\\b|(?<![a-z0-9])4k(?![a-z0-9])|\\buhd\\b|\\bultra[ ._-]?hd\\b))",
+      "tagColor": "#22000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter",
+      "borderColor": "#2EFFFFFF"
+    },
+    {
+      "groupId": "666f647d-0042-1337-0000-000010000000",
+      "id": "0b6cb68b-9b86-5b7b-9d90-37222bde6d14",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_1080p.png",
+      "isEnabled": true,
+      "name": "Full-HD",
+      "pattern": "(?i)(?:\\b1080p?\\b|\\bfhd\\b|\\bfull[ ._-]?hd\\b)",
+      "tagColor": "#22000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter",
+      "borderColor": "#2EFFFFFF"
+    },
+    {
+      "groupId": "666f647d-0042-1337-0000-000010000000",
+      "id": "0d33e380-b632-566f-a57f-89ab9137313e",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_720p.png",
+      "isEnabled": true,
+      "name": "HD",
+      "pattern": "(?i)\\b720p?\\b",
+      "tagColor": "#22000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter",
+      "borderColor": "#2EFFFFFF"
+    },
+
+
+
+    {
+      "id": "v-dv-hdr10p",
+      "name": "DV · HDR10+",
+      "groupId": "666f647d-0042-1337-0000-000001000000",
+      "isEnabled": false,
+      "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:dv|dovi|dolby[-_. ]?vision)(?![a-z0-9]))))(?=.*?(?:(?:(?<![a-z0-9])(?:hdr[-_. ]?10(?:[-_. ]?(?:\\+|p)|[-_. ]?plus))(?![a-z0-9]))))(?:(?=.*\\.(?:mkv|mp4|avi|m2ts|webm|mov|m4v)\\s+\\S)|(?=(?:.*(?:2160|1440|1080|720|576|480)[pi]?){2})|(?=.*[\\r\\n])|(?=^[a-f0-9]{40,64}\\s+\\S))",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/visual-tags/dolby-vision-hdr10-plus.png?rev=f07ea097e932",
+      "tagColor": "#000000",
+      "borderColor": "#2EFFFFFF",
+      "textColor": "#FFFFFF",
+      "tagStyle": "bordered",
+      "type": "filter"
+    },
+    {
+      "id": "v-dv-hdr10",
+      "name": "DV · HDR10",
+      "groupId": "666f647d-0042-1337-0000-000001000000",
+      "isEnabled": false,
+      "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:dv|dovi|dolby[-_. ]?vision)(?![a-z0-9]))))(?=.*?(?:(?:(?<![a-z0-9])(?:hdr[-_. ]?10(?![-_. ]?(?:\\+|p(?:lus)?|bit|hi)))(?![a-z0-9]))))(?:(?=.*\\.(?:mkv|mp4|avi|m2ts|webm|mov|m4v)\\s+\\S)|(?=(?:.*(?:2160|1440|1080|720|576|480)[pi]?){2})|(?=.*[\\r\\n])|(?=^[a-f0-9]{40,64}\\s+\\S))(?!.*(?:(?:(?:(?<![a-z0-9])(?:hdr[-_. ]?10(?:[-_. ]?(?:\\+|p)|[-_. ]?plus))(?![a-z0-9])))))",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/visual-tags/dolby-vision-hdr10.png?rev=fa26b5c86665",
+      "tagColor": "#000000",
+      "borderColor": "#2EFFFFFF",
+      "textColor": "#FFFFFF",
+      "tagStyle": "bordered",
+      "type": "filter"
+    },
+    {
+      "id": "v-dv-hdr",
+      "name": "DV · HDR",
+      "groupId": "666f647d-0042-1337-0000-000001000000",
+      "isEnabled": false,
+      "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:dv|dovi|dolby[-_. ]?vision)(?![a-z0-9]))))(?=.*?(?:(?:(?<![a-z0-9])(?:hdr(?![-_. ]?(?:10(?![-_. ]?bit)|\\+|p(?:lus)?)))(?![a-z0-9]))))(?:(?=.*\\.(?:mkv|mp4|avi|m2ts|webm|mov|m4v)\\s+\\S)|(?=(?:.*(?:2160|1440|1080|720|576|480)[pi]?){2})|(?=.*[\\r\\n])|(?=^[a-f0-9]{40,64}\\s+\\S))(?!.*(?:(?:(?:(?<![a-z0-9])(?:hdr[-_. ]?10(?:[-_. ]?(?:\\+|p)|[-_. ]?plus))(?![a-z0-9]))|(?:(?<![a-z0-9])(?:hdr[-_. ]?10(?![-_. ]?(?:\\+|p(?:lus)?|bit|hi)))(?![a-z0-9])))))",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/visual-tags/dolby-vision-hdr.png?rev=9dffa553dcde",
+      "tagColor": "#000000",
+      "borderColor": "#2EFFFFFF",
+      "textColor": "#FFFFFF",
+      "tagStyle": "bordered",
+      "type": "filter"
+    },
+
+
+ 
+    {
+      "groupId": "666f647d-0042-1337-0000-000001000000",
+      "id": "9be3e5a6-b81c-5659-b771-e2b111c2d496",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_DV.png",
+      "isEnabled": true,
+      "name": "DV",
+      "pattern": "(?i)\\b(?:dv|dovi|dolby[ ._-]?vision|dv(hdr[ .\\-_]?(10)?[ .-_]?(p(lus)?|[+])?)?)\\b",
+      "tagColor": "#22000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter",
+      "borderColor": "#2EFFFFFF"
+    },
+    {
+      "groupId": "666f647d-0042-1337-0000-000001000000",
+      "id": "1f393f30-df1f-547e-97a7-b6b81404d8b5",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_HDR10Plus.png",
+      "isEnabled": true,
+      "name": "HDR10+",
+      "pattern": "(?i)\\b(dv)?hdr[ .-_]?10[ .-_]?(p(lus)?|[+])\\b",
+      "tagColor": "#22000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter",
+      "borderColor": "#2EFFFFFF"
+    },
+    {
+      "groupId": "666f647d-0042-1337-0000-000001000000",
+      "id": "c2d8eca4-de97-53e4-b151-418c8b88607d",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_HDR10.png",
+      "isEnabled": true,
+      "name": "HDR10",
+      "pattern": "(?i)\\b(dv)?hdr[ .-_]?10(?![ .-_]?(?:\\+|p(lus)?))\\b",
+      "tagColor": "#22000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter",
+      "borderColor": "#2EFFFFFF"
+    },
+    {
+      "groupId": "666f647d-0042-1337-0000-000001000000",
+      "id": "81fcb635-5677-5e0b-85c9-77fd994d0091",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_HDR.png",
+      "isEnabled": true,
+      "name": "HDR",
+      "pattern": "(?i)\\b(dv)?hdr(?![ .-_]?10)(?![ .\\-_]?(?:\\+|p(lus)?))\\b",
+      "tagColor": "#22000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter",
+      "borderColor": "#2EFFFFFF"
+    },
+    {
+      "groupId": "666f647d-0042-1337-0000-000001000000",
+      "id": "9d1f158a-bb45-5758-b8da-b45c2759f803",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_sdr.png",
+      "isEnabled": false,
+      "name": "SDR",
+      "pattern": "(?i)\\bSDR\\b",
+      "tagColor": "#22000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter",
+      "borderColor": "#2EFFFFFF"
+    },
+    {
+      "groupId": "666f647d-0042-1337-0000-000000000004",
+      "id": "a542b0b8-8bec-567a-ac42-50e87ec3e11b",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_imax.png",
+      "isEnabled": true,
+      "name": "IMAX",
+      "pattern": "(?i)\\bimax\\b",
+      "tagColor": "#22000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter",
+      "borderColor": "#2EFFFFFF"
+    },
+
+
+
+    {
+      "groupId": "666f647d-0042-1337-0000-000000100000",
+      "id": "1e376aee-96c7-53cb-87e6-ea82d34afca0",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_Atmos.png",
+      "isEnabled": true,
+      "name": "ATMOS",
+      "pattern": "(?i)\\batmos|ddpa\\d?\\b",
+      "tagColor": "#22000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter",
+      "borderColor": "#2EFFFFFF"
+    },
+    {
+      "borderColor": "#2EFFFFFF",
+      "groupId": "666f647d-0042-1337-0000-000000100000",
+      "id": "6f4637af-d45c-5ef9-9a35-7adc61ab5a0e",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/audio-tags/dolby-truehd.png",
+      "isEnabled": true,
+      "name": "TRUEHD",
+      "pattern": "(?i)\\btrue[ .-_]?hd\\b",
+      "tagColor": "#22000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter"
+    },
+    {
+      "groupId": "666f647d-0042-1337-0000-000000100000",
+      "id": "4309bea6-d424-51f4-8099-0deabacfc306",
+      "imageURL": "data:image/png;base64,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",
+      "isEnabled": true,
+      "name": "DTS-X",
+      "pattern": "(?i)\\bdts[ .-:_]?x\\b",
+      "tagColor": "#22000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter",
+      "borderColor": "#2EFFFFFF"
+    },
+    {
+      "groupId": "666f647d-0042-1337-0000-000000100000",
+      "id": "85d60c3f-6e5c-5e06-996f-8232bb686109",
+      "imageURL": "data:image/png;base64,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",
+      "isEnabled": true,
+      "name": "DTS-HD MA",
+      "pattern": "(?i)\\bdts[ .-_]?hd[ .-_]?ma\\b",
+      "tagColor": "#22000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter",
+      "borderColor": "#2EFFFFFF"
+    },
+    {
+      "groupId": "666f647d-0042-1337-0000-000000100000",
+      "id": "a47dc0b9-72ed-5bf9-bcba-5e92b602001c",
+      "imageURL": "data:image/png;base64,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",
+      "isEnabled": true,
+      "name": "DTS-HD",
+      "pattern": "(?i)\\bdts[ .-_]?hd(?![ .-_]?ma)\\b",
+      "tagColor": "#22000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter",
+      "borderColor": "#2EFFFFFF"
+    },
+    {
+      "groupId": "666f647d-0042-1337-0000-000000100000",
+      "id": "138d9480-c83e-5735-aa9b-a0190464fbd5",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_DDPLUS.png",
+      "isEnabled": true,
+      "name": "DOLBY DIGITAL +",
+      "pattern": "(?i)\\b(d(olby)?[ .-_]?d(igital)?[ .-_]?((p(lus)?|\\+)a?)(?:[ .-_]?(2[ .-_]?0|5[ .-_]?1|7[ .-_]?1))?)|e[ .-_]?ac[ .-_]?3\\b",
+      "tagColor": "#22000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter",
+      "borderColor": "#2EFFFFFF"
+    },
+    {
+      "groupId": "666f647d-0042-1337-0000-000000100000",
+      "id": "da8db73e-5b47-560e-a543-abf02335db5c",
+      "imageURL": "data:image/png;base64,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",
+      "isEnabled": true,
+      "name": "DTS",
+      "pattern": "(?i)\\bdts(?![ .-:_]?(x(?=[\\s\\)\\]_.-,]|$)|hd[ .-_]?(ma)?|es))\\b",
+      "tagColor": "#22000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter",
+      "borderColor": "#2EFFFFFF"
+    },
+    {
+      "groupId": "666f647d-0042-1337-0000-000000100000",
+      "id": "3476e4a0-0f7d-57f1-bd45-13bfa2db5e42",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_DD.png",
+      "isEnabled": true,
+      "name": "DOLBY DIGITAL",
+      "pattern": "(?i)\\b(d(olby)?[ .-_]?d(igital)?(?!p)(?:[ .-_]?(5[ .-_]?1|7[ .-_]?1|2[ .-_]?0?))?)|(?<!e[ .-_])(?<!e)ac[ .-_]?3\\b",
+      "tagColor": "#22000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter",
+      "borderColor": "#2EFFFFFF"
+    },
+
+
+
+    {
+      "id": "gs-peacock",
+      "name": "PEACOCK",
+      "groupId": "666f647d-0042-1337-0000-000000000100",
+      "isEnabled": true,
+      "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:peacock|pcok)(?![a-z0-9]))))",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/streaming-tags/peacock.png?rev=3a246330d6cd",
+      "tagColor": "#00000000",
+      "borderColor": "#FCCC12",
+      "textColor": "#FFFFFF",
+      "tagStyle": "bordered",
+      "type": "filter"
+    },
+    {
+      "id": "s-nflx",
+      "name": "NETFLIX",
+      "groupId": "666f647d-0042-1337-0000-000000000100",
+      "isEnabled": true,
+      "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:netflix|nflx|nf)(?![a-z0-9]))))",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/streaming-tags/netflix.png?rev=f9ff8350db66",
+      "tagColor": "#00000000",
+      "borderColor": "#E50914",
+      "textColor": "#FFFFFF",
+      "tagStyle": "bordered",
+      "type": "filter"
+    },
+    {
+      "id": "s-amzn",
+      "name": "PRIME VIDEO",
+      "groupId": "666f647d-0042-1337-0000-000000000100",
+      "isEnabled": true,
+      "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:amazon|amzn|prime[-_. ]?video)(?![a-z0-9]))))",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/streaming-tags/prime-video.png?rev=734e98d3cae7",
+      "tagColor": "#00000000",
+      "borderColor": "#00A8E1",
+      "textColor": "#FFFFFF",
+      "tagStyle": "bordered",
+      "type": "filter"
+    },
+    {
+      "id": "s-atvp",
+      "name": "APPLE TV+",
+      "groupId": "666f647d-0042-1337-0000-000000000100",
+      "isEnabled": true,
+      "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:apple[-_. ]?tv(?:\\+|plus)?|atvp)(?![a-z0-9]))))",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/streaming-tags/apple-tv-plus.png?rev=385cbbb6b82b",
+      "tagColor": "#00000000",
+      "borderColor": "#A2AAAD",
+      "textColor": "#FFFFFF",
+      "tagStyle": "bordered",
+      "type": "filter"
+    },
+    {
+      "id": "s-dsnp",
+      "name": "DISNEY+",
+      "groupId": "666f647d-0042-1337-0000-000000000100",
+      "isEnabled": true,
+      "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:disney(?:\\+|plus)?|dsnp)(?![a-z0-9]))))",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/streaming-tags/disney-plus.png?rev=31ef53ec24e7",
+      "tagColor": "#00000000",
+      "borderColor": "#0063E5",
+      "textColor": "#FFFFFF",
+      "tagStyle": "bordered",
+      "type": "filter"
+    },
+    {
+      "id": "s-hmax",
+      "name": "HBO MAX",
+      "groupId": "666f647d-0042-1337-0000-000000000100",
+      "isEnabled": true,
+      "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:hbo[-_. ]?max|hbomax|hmax)(?![a-z0-9]))))",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/streaming-tags/hbo-max.png?rev=9bfc00cc3550",
+      "tagColor": "#00000000",
+      "borderColor": "#A45CFF",
+      "textColor": "#FFFFFF",
+      "tagStyle": "bordered",
+      "type": "filter"
+    },
+    {
+      "id": "s-hulu",
+      "name": "HULU",
+      "groupId": "666f647d-0042-1337-0000-000000000100",
+      "isEnabled": true,
+      "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:hulu)(?![a-z0-9]))))",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/streaming-tags/hulu.png?rev=312e1f6e4a66",
+      "tagColor": "#00000000",
+      "borderColor": "#1CE783",
+      "textColor": "#FFFFFF",
+      "tagStyle": "bordered",
+      "type": "filter"
+    },
+    {
+      "id": "s-pamp",
+      "name": "PARAMOUNT+",
+      "groupId": "666f647d-0042-1337-0000-000000000100",
+      "isEnabled": true,
+      "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:paramount(?:\\+|plus)?|pmtp|pamp)(?![a-z0-9]))))",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/streaming-tags/paramount-plus.png?rev=d69428aff13c",
+      "tagColor": "#00000000",
+      "borderColor": "#0064FF",
+      "textColor": "#FFFFFF",
+      "tagStyle": "bordered",
+      "type": "filter"
+    },
+    {
+      "id": "s-croll",
+      "name": "CRUNCHYROLL",
+      "groupId": "666f647d-0042-1337-0000-000000000100",
+      "isEnabled": true,
+      "pattern": "(?is)^(?=.*?(?:(?:(?<![a-z0-9])(?:crunchyroll|croll)(?![a-z0-9]))))",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/streaming-tags/crunchyroll.png?rev=6fad3db24703",
+      "tagColor": "#00000000",
+      "borderColor": "#F47521",
+      "textColor": "#FFFFFF",
+      "tagStyle": "bordered",
+      "type": "filter"
+    },
+
+
+
+    {
+      "groupId": "666f647d-0042-1337-0000-000000010000",
+      "id": "343880da-882c-5dd8-8686-aee04111d735",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_71.png",
+      "isEnabled": false,
+      "name": "7.1 CH",
+      "pattern": "(?i)(?=.*[^0-9][7-8][ .][0-1]\\b)(?!.*[^0-9]5[ .][0-1]\\b)(?!.*[^0-9]6[ .][0-1]\\b)(?!.*(?<!repac)[^0-9][1-4][ .][0-1]|\\\\b(Stereo|Mono)\\\\b)",
+      "tagColor": "#22000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter",
+      "borderColor": "#2EFFFFFF"
+    },
+    {
+      "groupId": "666f647d-0042-1337-0000-000000010000",
+      "id": "59853061-bc8f-5545-b392-644c22267ef8",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_61.png",
+      "isEnabled": false,
+      "name": "6.1 CH",
+      "pattern": "(?i)(?=.*[^0-9]6[ .][0-1]\\b)(?!.*[^0-9][7-8][ .][0-1]\\b)(?!.*[^0-9]5[ .][0-1]\\b)(?!.*(?<!repac)[^0-9][1-4][ .][0-1]\\b|\\\\b(Stereo|Mono)\\\\b)",
+      "tagColor": "#22000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter",
+      "borderColor": "#2EFFFFFF"
+    },
+    {
+      "groupId": "666f647d-0042-1337-0000-000000010000",
+      "id": "e3ab9d1e-9064-53ca-b405-354e40f2455a",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_51.png",
+      "isEnabled": false,
+      "name": "5.1 CH",
+      "pattern": "(?i)(?=.*[^0-9]5[ .][0-1]\\b)(?!.*[^0-9]6[ .][0-1]\\b)(?!.*[^0-9][7-8][ .][0-1]\\b)(?!.*(?<!repac)[^0-9][1-4][ .][0-1]\\b|\\\\b(Stereo|Mono)\\\\b)",
+      "tagColor": "#22000000",
+      "tagStyle": "filled and bordered",
+      "textColor": "#FFFFFF",
+      "type": "filter",
+      "borderColor": "#2EFFFFFF"
+    }
+  ]
+}
