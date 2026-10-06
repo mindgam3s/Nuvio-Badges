@@ -60,8 +60,8 @@
       "isEnabled": true,
       "name": "TRUE-HUE",
       "pattern": "(?i)(?<![\\s\\S])(?=[\\s\\S]*?(?:(?:(?<![A-Za-z0-9])(?:true[-_. ]?hue(?:[-_. ]?(?:full[-_. ]?)?color)?|colorized|full[-_. ]?color)(?![A-Za-z0-9]))))(?![\\s\\S]*(?:(?:(?<![A-Za-z0-9])(?:authentic[-_. ]?(?:bw|black[-_. ]?(?:and|&)[-_. ]?white)|bw|b\\s*[&＆]\\s*w|black[-_. ]?(?:and|&)[-_. ]?white)(?![A-Za-z0-9]))))",
-      "tagColor": "#000000",
-      "tagStyle": "bordered",
+      "tagColor": "#00000000",
+      "borderColor": "#FCCC12",
       "textColor": "#FFFFFF",
       "type": "filter"
     },
