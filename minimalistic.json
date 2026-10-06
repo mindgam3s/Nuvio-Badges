@@ -236,7 +236,7 @@
     {
       "groupId": "666f647d-0042-1337-0000-000000100000",
       "id": "1e376aee-96c7-53cb-87e6-ea82d34afca0",
-      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_Atmos.png",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/audio-tags/dolby-atmos.png",
       "isEnabled": true,
       "name": "ATMOS",
       "pattern": "(?i)\\batmos|ddpa\\d?\\b",
@@ -301,7 +301,7 @@
     {
       "groupId": "666f647d-0042-1337-0000-000000100000",
       "id": "138d9480-c83e-5735-aa9b-a0190464fbd5",
-      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_DDPLUS.png",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/audio-tags/dolby-digital-plus.png",
       "isEnabled": true,
       "name": "DOLBY DIGITAL +",
       "pattern": "(?i)\\b(d(olby)?[ .-_]?d(igital)?[ .-_]?((p(lus)?|\\+)a?)(?:[ .-_]?(2[ .-_]?0|5[ .-_]?1|7[ .-_]?1))?)|e[ .-_]?ac[ .-_]?3\\b",
@@ -327,7 +327,7 @@
     {
       "groupId": "666f647d-0042-1337-0000-000000100000",
       "id": "3476e4a0-0f7d-57f1-bd45-13bfa2db5e42",
-      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_DD.png",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/audio-tags/dolby-digital.png",
       "isEnabled": true,
       "name": "DOLBY DIGITAL",
       "pattern": "(?i)\\b(d(olby)?[ .-_]?d(igital)?(?!p)(?:[ .-_]?(5[ .-_]?1|7[ .-_]?1|2[ .-_]?0?))?)|(?<!e[ .-_])(?<!e)ac[ .-_]?3\\b",
