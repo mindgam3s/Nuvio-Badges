@@ -327,7 +327,7 @@
     {
       "groupId": "666f647d-0042-1337-0000-000000100000",
       "id": "3476e4a0-0f7d-57f1-bd45-13bfa2db5e42",
-      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/testing-tags/dolby-digital-v2.png",
+      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/white-tags/white_DD.png",
       "isEnabled": true,
       "name": "DOLBY DIGITAL",
       "pattern": "(?i)\b(d(olby)?[ .-_]?d(igital)?(?!p)(?:[ .-_]?(5[ .-_]?1|7[ .-_]?1|2[ .-_]?0?))?)|(?<!e[ .-_])(?<!e)ac[ .-_]?3\b",
