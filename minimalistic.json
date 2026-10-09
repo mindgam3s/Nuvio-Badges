@@ -43,7 +43,7 @@
       "borderColor": "#BBDEFB",
       "groupId": "666f647d-0042-1337-0000-000100000000",
       "id": "black-and-white",
-      "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/special-tags/black-and-white.png",
+      "imageURL": "",
       "isEnabled": true,
       "name": "BLACK & WHITE",
       "pattern": "(?i)(?<![\\s\\S])(?=[\\s\\S]*?(?:(?:(?<![A-Za-z0-9])(?:authentic[-_. ]?(?:bw|black[-_. ]?(?:and|&)[-_. ]?white)|bw|b\\s*[&＆]\\s*w|black[-_. ]?(?:and|&)[-_. ]?white)(?![A-Za-z0-9]))))(?![\\s\\S]*(?:(?:(?<![A-Za-z0-9])(?:true[-_. ]?hue(?:[-_. ]?(?:full[-_. ]?)?color)?|colorized|full[-_. ]?color)(?![A-Za-z0-9]))))",
