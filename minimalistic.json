@@ -317,7 +317,7 @@
       "imageURL": "https://raw.githubusercontent.com/mindgam3s/Nuvio-Badges/main/audio-tags/dts.png",
       "isEnabled": true,
       "name": "DTS",
-      "pattern": "(?i)\\bdts(?![ .-:_]?(x(?=[\\s\\)\\]_.-,]|$)|hd[ .-_]?(ma)?|es))\\b",
+      "pattern": "(?i)\\bdts(?![ .\\-_]?(?:x(?=[\\s)\\]_.\\-,]|$)|hd[ ._-]?(?:ma)?|es))\\b",
       "tagColor": "#22000000",
       "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
